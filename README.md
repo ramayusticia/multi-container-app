@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # Multi Container App - Web + Database (Docker Compose)
 
-## Kelompok 5
+## Kelompok 5 
 ### Anggota Kelompok
-1. Trisa Aprilia
+1. Trisa Aprilia 
 2. Nurul Syafiqah Balqis
 3. Rama Yusticia
 
@@ -20,25 +19,7 @@ Aplikasi ini dibuat untuk memenuhi tugas mata kuliah terkait container dan virtu
 - MySQL
 
 ## Struktur Folder
-
-
-## Deskripsi
-Proyek ini merupakan aplikasi web sederhana yang terhubung dengan database MySQL
-menggunakan Docker Compose (multi-container).
-
-## Teknologi
-- Docker
-- Docker Compose
-- PHP 8.2 (Apache)
-- MySQL
-
-## Struktur Folder
-multi-container-app
-├── docker-compose.yml
-├── Dockerfile
-├── README.md
-└── web
-└── index.php
+multi-container-app > docker-compose.yml > Dockerfile > README.md > web/index.php
 
 
 ## Cara Menjalankan Aplikasi
