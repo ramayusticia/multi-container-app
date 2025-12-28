@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi Container App - Web + Database (Docker Compose)
 
 # Multi Container App - Web + Database (Docker Compose)
@@ -60,3 +61,7 @@ Web berhasil terhubung ke Database MySQL
 ## Kesimpulan
 Dengan menggunakan Docker Compose, aplikasi web dan database dapat dijalankan
 secara terpisah dalam container namun tetap saling terhubung dalam satu sistem.
+=======
+# multi-container-app
+Aplikasi web dan database menggunakan Docker Compose dengan arsitektur multi-container-app.
+>>>>>>> 18ebb3fd3160b3f9518e46bfd0ba4aacc83e40b8
